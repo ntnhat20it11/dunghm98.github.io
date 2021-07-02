@@ -121,7 +121,7 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("../img/iput-bg.jpg")',
-                title: 'Tớ biết mà ^^ Cho mượn 5 chục coi,
+                title: 'Tớ biết mà ^^ Cho mượn 5 chục coi,'
                 text: "Chuyển khoản đi nha stk VCB 1014145904",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
